@@ -1,0 +1,10 @@
+This is a React Todo application that:
+
+Fetches initial todos from an API
+Allows adding, toggling, and deleting tasks
+Implements filtering (all/completed/pending)
+Uses localStorage for data persistence
+Includes error handling and loading states
+Features a scrollable UI with custom styling
+Manages state using useState and useEffect hooks
+Handles array-based operations safely with type checks
